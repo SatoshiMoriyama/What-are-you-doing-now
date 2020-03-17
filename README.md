@@ -7,6 +7,6 @@
 ②タスクアイコンをダブルクリックまたは、Ctrl+Shift+Xでテキストボックスが起動。  
 ③投稿する文字をいれて、Ctrl+Enterで投稿。（失敗したらダイアログがでます。）  
   
-##WAYDN.exe.config
- WebhookURL → Incomming WebHockのURLを設定  
+## WAYDN.exe.config
+ WebhookURL → Incomming WebHockのURLを設定    
  Time → 画面起動の周期（秒）
